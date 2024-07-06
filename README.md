@@ -1,4 +1,4 @@
-# Hi there, I'm Cameron McConnell! 👋
+oh# Hi there, I'm Cameron McConnell! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a diverse skill set in various programming languages, web development frameworks, and tools & technologies. Below you'll find an overview of my skills and some of the projects I've worked on.
 
@@ -47,4 +47,3 @@ Welcome to my GitHub profile! I'm a passionate software developer with a diverse
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronMcConnell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cameronMcConnell&theme=radical)
