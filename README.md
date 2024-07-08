@@ -1,4 +1,4 @@
-oh# Hi there, I'm Cameron McConnell! 👋
+# Hi there, I'm Cameron McConnell! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a diverse skill set in various programming languages, web development frameworks, and tools & technologies. Below you'll find an overview of my skills and some of the projects I've worked on.
 
