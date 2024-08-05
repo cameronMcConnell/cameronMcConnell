@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a diverse
 - 🎓 I’m a Computer Science graduate from Arizona State University with a Bachelor's degree.
 - 💻 I like to code for fun and explore new technologies.
 - 🌟 I’m looking to contribute to open-source projects.
+- 📂 Check out my portfolio: [cameronmcconnell.net](https://cameronmcconnell.net)
 - 📫 How to reach me: cameron.mcconne@gmail.com | [LinkedIn](https://www.linkedin.com/in/cameron-mcconnell-704b17225/)
 
 ## 🛠 Skills
@@ -31,18 +32,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a diverse
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Tools & Technologies
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Pip](https://img.shields.io/badge/pip-%23037ACC.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-%234D4D4D.svg?style=for-the-badge&logo=cargo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23181717.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0F1D.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%2300ADD8.svg?style=for-the-badge&logo=agile&logoColor=white)
 
 ## 📈 GitHub Stats
 
